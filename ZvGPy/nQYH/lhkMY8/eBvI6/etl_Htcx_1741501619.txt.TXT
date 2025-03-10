@@ -19,7 +19,6 @@ For information about alternative licensing arrangements for the Licensed Work,
 please contact support@pentaho.com.
 
 Notice
-
 Business Source License 1.1
 
 Terms
