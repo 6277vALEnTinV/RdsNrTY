@@ -1,5 +1,4 @@
 .git
-data/*
 .github
 tmp/*
 django.db
