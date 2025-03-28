@@ -2,7 +2,6 @@ before:
   hooks:
     - go mod tidy
     - go clean -testcache && go test -timeout 30s ./...
-builds:
   - env:
       - CGO_ENABLED=0
       - GO111MODULE=on
