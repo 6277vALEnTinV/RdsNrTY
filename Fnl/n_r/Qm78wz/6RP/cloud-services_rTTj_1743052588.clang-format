@@ -33,7 +33,6 @@ IncludeCategories:
     Priority:        4
   - Regex:           '.*'
     Priority:        2
-IndentCaseLabels: true
 IndentWidth: 4
 KeepEmptyLinesAtTheStartOfBlocks: false
 MaxEmptyLinesToKeep: 2
