@@ -9,7 +9,6 @@ We welcome others state agencies, educational institutions, and organizations to
 Please complete the following steps to download the Web Tool Source Code:
 * Read the [Open Source License Agreement](license_agreement).  License Agreement [web page](https://github.com/careerpathways/Career-Pathways-Web-Tool/blob/master/LICENSE.md), [PDF](https://github.com/careerpathways/Career-Pathways-Web-Tool/blob/master/Career_Pathways_Web_Tool_License_Agreement.pdf)
 * Read the Installation Requirements and Third Party Libraries information below.
-* [Register](https://oregon.ctepathways.org/a/guestlogin.php?download) to be a licensed user.
 * Download the Source Code
 
    
