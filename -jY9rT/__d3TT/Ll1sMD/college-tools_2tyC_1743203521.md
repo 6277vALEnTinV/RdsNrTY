@@ -29,7 +29,6 @@ The following third-party libraries are included in the Career Pathways Roadmap 
 * [Yahoo YUI 2.4.x](https://github.com/yui/yui3/blob/master/LICENSE.md) - [BSD License](https://github.com/yui/yui3/blob/master/LICENSE.md) (Note: YUI 2 links to this YUI 3 License)
 * NOTE: Other libraries are listed in [composer.json](https://github.com/careerpathways/Career-Pathways-Web-Tool/blob/master/composer.json) and should be reviewed as well.
 
-
 ## Consulting
 If you would like assistance installing or customizing the software, please contact [Lunar Logic](https://lunarlogic.com) for services and rates.
 
