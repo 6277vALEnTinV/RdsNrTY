@@ -37,7 +37,6 @@ If you would like assistance installing or customizing the software, please cont
 If you are experiencing any difficulty downloading the source code after registering, please contact us through our [Help Desk](https://oregon.ctepathways.org/a/help). We will respond within 24 business hours.
 
 
-## Code Modification
 According to [section 3 C](https://github.com/careerpathways/Career-Pathways-Web-Tool/blob/master/LICENSE.md) of the license agreement, you are required to provide a copy of any modifications you make back to us. Please [fork the code on Github](https://github.com/careerpathways/Career-Pathways-Web-Tool) and send a pull request with your changes, or contact us at [code@ctepathways.org](mailto:code@ctepathways.org) to arrange other delivery options.
 
 
