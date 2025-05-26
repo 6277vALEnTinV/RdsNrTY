@@ -3,7 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: He
   given-names: Han
-  orcid: "https://orcid.org/0009-0005-1778-917X"
 title: "HanLP: Han Language Processing"
 version: 2.1
 date-released: 2015-05-27
