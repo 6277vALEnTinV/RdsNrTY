@@ -6,7 +6,6 @@ Opera >= 109
 Edge >= 123
 
 [firefox]
-Firefox >= 115
 FirefoxAndroid >= 115
 
 [opera]
