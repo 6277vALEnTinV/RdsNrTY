@@ -1,6 +1,5 @@
 /package
 /.github
-/tests
 /vendor
 /*.md
 /*.yml
