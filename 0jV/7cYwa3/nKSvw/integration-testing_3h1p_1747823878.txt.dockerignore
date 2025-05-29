@@ -1,9 +1,0 @@
-/package
-/.github
-/vendor
-/*.md
-/*.yml
-/codecept.bat
-/nitpick.json
-/ruleset.xml
-/.php-cs-fixer.dist.php
